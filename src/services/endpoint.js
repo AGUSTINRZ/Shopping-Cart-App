@@ -1,0 +1,1 @@
+export const MAIN_ENDPOINT = `https://dummyjson.com/products`
